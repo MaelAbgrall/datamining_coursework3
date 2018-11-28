@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.ipynb_checkpoints
+.spyderproject
+.spyproject
+.vscode
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+env*/
+ENV*/
+
+# DATA
+fer2018/
+fer2018.zip
+result/
+fer2017/
+CW3-2017.zip
+
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
